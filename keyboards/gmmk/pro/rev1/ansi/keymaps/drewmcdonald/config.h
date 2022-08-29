@@ -10,3 +10,6 @@
     #define RGB_DISABLE_WHEN_USB_SUSPENDED
     #define RGBLIGHT_SLEEP
 #endif
+
+#define TAPPING_TERM 175
+#define TAPPING_TERM_PER_KEY
